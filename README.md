@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DarkSoulWind
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## wys
 
-<!---
-DarkSoulWind/DarkSoulWind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Salman's github stats](https://github-readme-stats.vercel.app/api?username=DarkSoulWind&count_private=true&show_icons=true)](https://github.com/DarkSoulWind)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSoulWind&hide=php)](https://github.com/DarkSoulWind)
